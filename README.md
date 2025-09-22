@@ -1,2 +1,2 @@
 # meta-gigablue
-BSP layer for OpenPLi
+BSP layer for gigablue
